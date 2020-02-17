@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_tv">Tv</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
